@@ -32,15 +32,15 @@ A idéia da palestra é apresentar um modelo para inserção de testes em sistem
 * demonstração da criação de especificações executáveis
 * demonstração da criação de testes unitários, confiando nas especificações executáveis
 
-# A APRESENTAÇÃO
+## A APRESENTAÇÃO
 
-## Conceitos básicos
-## Apresentação do sistema legado em java
-## Idéia de processo para inserção gradual de testes
-## Apresentação da configuração
-## Demonstração da criação de especificações executáveis
-## Demonstração da criação de testes unitários, confiando nas especificações executávei
-## TDD is dead, isso tem e não tem a ver com testes unitários e algumas verdades que também devem ser ditas
+### Conceitos básicos
+### Apresentação do sistema legado em java
+### Idéia de processo para inserção gradual de testes
+### Apresentação da configuração
+### Demonstração da criação de especificações executáveis
+### Demonstração da criação de testes unitários, confiando nas especificações executávei
+### TDD is dead, isso tem e não tem a ver com testes unitários e algumas verdades que também devem ser ditas
 
 ## DICAS E BIBLIOGRAFIAS
 
