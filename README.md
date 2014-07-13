@@ -41,3 +41,11 @@ A idéia da palestra é apresentar um modelo para inserção de testes em sistem
 ## Demonstração da criação de especificações executáveis
 ## Demonstração da criação de testes unitários, confiando nas especificações executávei
 ## TDD is dead, isso tem e não tem a ver com testes unitários e algumas verdades que também devem ser ditas
+
+## DICAS E BIBLIOGRAFIAS
+
+### Não digitar sempre a senha do github:
+Fonte: https://help.github.com/articles/caching-your-github-password-in-git
+
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
