@@ -8,13 +8,16 @@
 
 ## O QUE EU FAÇO COM ISSO AQUI
 
-* A apresentação em si vai ser em HTML5+CSS+JS, com apoio do [deck.js](http://imakewebthings.com/deck.js/). Para editá-la, verifique a documentação e edite o arquivo slides/index.html
+* A apresentação em si vai ser em HTML5+CSS+JS, com apoio do [deck.js](http://imakewebthings.com/deck.js/). Para editá-la, verifique a documentação do deck.js e edite o arquivo slides/index.html
 
 ## SOBRE A PALESTRA
 
 ### Quando?
+
 Sexta-Feira, 8 de Agosto de 2014
+
 Duração: 50 minutos
+
 Horário: a definir
 
 ### Resumo
