@@ -26,14 +26,20 @@ no mesmo assunto, e por isso acabou ficando grande. A ideia é apenas um modelo 
 
 ## Apresentação do sistema legado em Java
 * apresentamos um sistema legado e sem testes. Podemos fazer um ou achar um na net, o que for mais fácil. Preferencialmente um todo gambiarrento, com Ant e sem testes. Podíamos fazer um cadastro de locadora JEE!
+
 ## Idéia de processo para inserção gradual de testes
 * em iterações
 * ninguém é obrigado a nada...mas o jenkins vai mostrar tudo que não tá coberto!
 * corridas: vamos ver quem consegue cobrir mais o sistema
 * hackatons
+
 ## Apresentação da configuração
+
 ## Demonstração da criação de especificações executáveis
+
 ## Demonstração da criação de testes unitários, confiando nas especificações executávei
+
 ## TDD is dead, isso tem a ver com testes unitários e algumas verdades que também devem ser ditas
+
 
 
