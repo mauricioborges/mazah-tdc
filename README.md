@@ -10,7 +10,7 @@
 
 ## <a name="o-que-eu-faco-com-isso-aqui"/> O que eu faço com isso aqui
 
-* A apresentação em si vai ser em HTML5+CSS+JS, com apoio do [deck.js](http://imakewebthings.com/deck.js/). Para editá-la, verifique a documentação do deck.js e edite o arquivo slides/index.html
+* A apresentação em si pode ser em HTML5+CSS+JS, com apoio do [deck.js](http://imakewebthings.com/deck.js/). Para editá-la, verifique a documentação do deck.js e edite o arquivo slides/index.html
 
 ## Sobre a palestra
 
