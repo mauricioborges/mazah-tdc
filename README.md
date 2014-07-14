@@ -3,14 +3,14 @@
 ## POR ONDE COMEÇAR?
 
 * Na seção [Sobre a palestra](#sobre-a-palestra), o conteúdo que foi enviado ao TDC. 
-* Na seção [A apresentação](#a-apresentacao), o corpo da apresentação é documentado em mais detalhes, para facilitar a sincronização entre nosso entendimento e usarmos como "cola" no dia da mesma.
-* A seção [O que eu faço com isso aqui](#o-que-eu-faco-com-isso-aqui) descreve como utilizar os recursos desse repositório: a apresentação de slides, os códigos-fonte, etc.
+* Na seção [A apresentacao](#a-apresentacao), o corpo da apresentação é documentado em mais detalhes, para facilitar a sincronização entre nosso entendimento e usarmos como "cola" no dia da mesma.
+* A seção [O que eu faco com isso aqui](#o-que-eu-faco-com-isso-aqui) descreve como utilizar os recursos desse repositório: a apresentação de slides, os códigos-fonte, etc.
 
-## O QUE EU FAÇO COM ISSO AQUI
+## O que eu faço com isso aqui
 
 * A apresentação em si vai ser em HTML5+CSS+JS, com apoio do [deck.js](http://imakewebthings.com/deck.js/). Para editá-la, verifique a documentação do deck.js e edite o arquivo slides/index.html
 
-## SOBRE A PALESTRA
+## Sobre a palestra
 
 ### Quando?
 
@@ -32,7 +32,7 @@ A idéia da palestra é apresentar um modelo para inserção de testes em sistem
 * demonstração da criação de especificações executáveis
 * demonstração da criação de testes unitários, confiando nas especificações executáveis
 
-## A APRESENTAÇÃO
+## A apresentação
 
 ### Conceitos básicos
 ### Apresentação do sistema legado em java
