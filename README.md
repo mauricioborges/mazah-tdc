@@ -3,7 +3,7 @@
 ## POR ONDE COMEÇAR?
 
 * Na seção [Sobre a palestra](#sobre-a-palestra), o conteúdo que foi enviado ao TDC. 
-* Na seção [A apresentação](#a-apresentacao), o corpo da apresentação é documentado em mais detalhes, para facilitar a sincronização entre nosso entendimento e usarmos como "cola" no dia da mesma.
+* Na seção [A apresentação](APRESENTACAO.md), o corpo da apresentação é documentado em mais detalhes, para facilitar a sincronização entre nosso entendimento e usarmos como "cola" no dia da mesma.
 * A seção [O que eu faço com isso aqui](#o-que-eu-faco-com-isso-aqui) descreve como utilizar os recursos desse repositório: a apresentação de slides, os códigos-fonte, etc.
 
 ## <a name="o-que-eu-faco-com-isso-aqui"/> O que eu faço com isso aqui
@@ -31,16 +31,6 @@ A idéia da palestra é apresentar um modelo para inserção de testes em sistem
 * apresentação da configuração e da ideia de processo para inserção gradual de testes
 * demonstração da criação de especificações executáveis
 * demonstração da criação de testes unitários, confiando nas especificações executáveis
-
-## <a name="a-apresentacao"/> A apresentação
-
-### Conceitos básicos
-### Apresentação do sistema legado em java
-### Idéia de processo para inserção gradual de testes
-### Apresentação da configuração
-### Demonstração da criação de especificações executáveis
-### Demonstração da criação de testes unitários, confiando nas especificações executávei
-### TDD is dead, isso tem e não tem a ver com testes unitários e algumas verdades que também devem ser ditas
 
 ## DICAS E BIBLIOGRAFIAS
 
