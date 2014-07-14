@@ -1,5 +1,7 @@
 # Especificações e testes funcionais e de interface Web em paralelo, usando Spock, Geb e Cucumber-JVM, para introdução de testes automatizados em ambientes legados
 
+*Nota importante:* Tudo isso pode mudar :D
+
 ## POR ONDE COMEÇAR?
 
 * Na seção [Sobre a palestra](#sobre-a-palestra), o conteúdo que foi enviado ao TDC. 
